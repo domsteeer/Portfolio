@@ -1,0 +1,9 @@
+This directory will contain all image assets for your portfolio website.
+You should add your personal photos and project screenshots here.
+Recommended images to include:
+- profile.png (for hero section)
+- about.jpg (for about section)
+- projects/project1.jpg (for project thumbnails)
+- projects/project2.jpg
+- projects/project3.jpg
+- background elements and graphics
